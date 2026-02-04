@@ -82,8 +82,7 @@ These insights show that **customer behavior matters more than income alone**.
 
 ---
 
-## Author
-Aspiring Data Analyst | SQL • Data Analysis
+
 
 
 
